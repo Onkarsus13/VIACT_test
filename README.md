@@ -10,12 +10,12 @@ The input supports any number of points and any number of dimensions. Make the "
 * Download the binary file "kmeans" from the repository.
 * Make a file "input.txt" with all the point coordinates. The format should be as shown below (the example has 2-dimensional coordinates):
 
-![Input File Syntax](image/input.png)
+![Input File Syntax](input.png)
 * Run the kmeans binary with the input file name and number of clusters as command line arguments, as shown below:
 
-![Bash Output](image/cmd.png)
+![Bash Output](cmd.png)
 * The output will be the center point of each cluster, saved in "clusters.txt" file as shown below:
 
-![Clusters File Syntax](image/clusters.png)
+![Clusters File Syntax](clusters.png)
 
 -------------------------------
